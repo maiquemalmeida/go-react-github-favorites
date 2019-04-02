@@ -1,3 +1,7 @@
+# GitHub Favorites - Go React
+
+Este projeto tem carater meramente ilustrativo, demonstrando o uso de React, Redux, Saga e Duck Patterns.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
